@@ -44,3 +44,4 @@ jobs:
           STED_SIZE_RANGE: ${{secrets.STED_SIZE_RANGE}}
 
         run: npm run start
+
